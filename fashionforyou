@@ -1,0 +1,11 @@
+fashion-website/
+├── index.html
+├── style.css
+└── images/
+    ├── logo.png
+    ├── hero-banner.jpg
+    ├── product1.png
+    ├── product2.png
+    └── product3.png
+
+     
